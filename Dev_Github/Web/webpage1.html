@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width = device-width, initial-scale = 1">
+		<title>Personal Page</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<style>
+			.item img {
+				height: 300px;
+				width: 100%;
+			}
+			.carousel-inner > .item > img,
+			.carousel-inner > .item > a > img {
+				width: 70%;
+				margin: auto;
+			}
+			.carousel-control {
+				height: 300px;
+			}
+			#left-top-dropdown-button {
+				margin-top: 40px;
+			}
+			#row-header_dropdown {
+				height: 100px;
+			}
+			
+			.glyphicon-bell,
+			.glyphicon-music {
+				margin-top: 50px;
+			}
+			#notif-btn,
+			#music-btn {
+				margin-top: 10px;
+			}
+
+			.bottom-images {
+				height: 500px;
+				width: 33%;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row" id="row-header_dropdown">
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+					<div class="page-header">
+						<h1>Page Header</h1>
+					</div>
+				</div>
+				
+				
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-3">
+						<p>
+							<a  id="notif-btn" href="#" class="btn btn-primary btn-md">
+								Notifications
+								<span class="glyphicon glyphicon-bell"></span>
+							</a>
+						</p>
+					</div>
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-3">
+						<p>
+							<a id="music-btn" href="#" class="btn btn-primary btn-md">
+								Music
+								<span class="glyphicon glyphicon-music" aria-hidden="true"></span>
+							</a>
+						</p>
+					</div>
+					
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+						<div class="dropdown pull-right" id="left-top-dropdown-button">
+							<button class="btn btn-primary dropdown-toggle btn-md" type="button" id="dropdown-menu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">DropDown
+							<span class="caret"></span>
+							</button>
+							
+							<ul class="dropdown-menu">
+								<li class="dropdown-header">Header</li>
+								<li><a href="#">Item1</a></li>
+								<li><a href="#">Item2</a></li>
+								<li><a href="#">Item3</a></li>
+								<li role="separator" class="divider"></li>
+								<li class="dropdown-header">Header2</li>
+								<li class="disabled"><a href="#">Disabled</a></li>
+								<li><a href="#">Item1</a></li>
+								<li><a href="#">Item3</a></li>
+							</ul>
+						</div>
+					</div>
+				
+			</div>
+			<div class="jumbotron">
+				
+				<p>
+					<h3>JUMBOTRON</h3>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum quo odit id nobis inventore facere deserunt est excepturi dolorem numquam, praesentium vitae saepe temporibus, alias iusto magnam sequi doloremque non!
+				</p>
+				<p>
+					<a href="#" class="btn btn-default btn-lg" role="button">More Info</a>
+					<button type="submit" class="btn btn-danger" role="button">Button Danger</button>
+					<input type="button" value="Info" class="btn btn-info">
+					<button type="submit" class="btn-primary btn-sm">small primary</button>
+					<button type="submit" class="btn btn-success btn-xs">success xs</button>
+					<button type="submit" class="btn btn-warning btn-lg">warning lg</button>
+					<button type="submit" class="btn btn-link btn-md">link md</button>
+				</p>
+			</div>
+			
+			<div id="theCarousel" class="carousel slide" data-ride="carousel">
+				<ol class="carousel-indicators">
+					<li data-target="#theCarousel" data-slide-to="0" class="active">
+					</li>
+					<li data-target="#theCarousel" data-slide-to="1">
+					</li>
+					<li data-target="#theCarousel" data-slide-to="2">
+					</li>
+				</ol>
+				<div class="carousel-inner">
+					<div class="item active">
+						<div class="slide1">
+							<img src="img/backwall.jpg" alt="pic">
+						</div>
+						<div class="carousel-caption">
+							<h1>Amazing Stuff</h1>
+							<p><a href="#" class="btn btn-primary btn-sm">Get Them Now</a></p>
+						</div>
+					</div>
+					<div class="item">
+						<div class="slide2">
+							<img src="img/backwall_matrix.jpg" alt="pic">
+						</div>
+						<div class="carousel-caption">
+							<h1>More Amazing stuff</h1>
+							<p><a href="#" class="btn btn-primary btn-sm">Get Them Now</a></p>
+						</div>
+					</div>
+					<div class="item">
+						<div class="slide3">
+							<img src="img/backwall_labirynthcode.png" alt="pic">
+						</div>
+						<div class="carousel-caption">
+							<h1>Even More</h1>
+							<p><a href="#" class="btn btn-primary btn-sm">Get Them Now</a></p>
+						</div>
+					</div>
+				</div>
+				
+				<a class="left carousel-control" href="#theCarousel" data-slide="prev">
+					<span class="glyphicon glyphicon-chevron-left"></span>
+					<span class="sr-only">Previous</span>
+				</a>
+				<a class="right carousel-control" href="#theCarousel" data-slide="next">
+					<span class="glyphicon glyphicon-chevron-right"></span>
+					<span class="sr-only">Next</span>
+				</a>
+			</div>
+			<br>
+			<br>
+			<br>
+
+			<div class="well well-large">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores nihil enim ea alias, eligendi ab. Consectetur perspiciatis, architecto, voluptas aliquid numquam tenetur, molestiae ut earum dolorem eveniet, repellendus voluptatibus amet!</p>
+			</div>
+
+			<div class="input-group input-group-lg">
+				<span class="input-group-addon">Your Name</span>
+				<input type="text" class="form-control" placeholder="Full Name">
+			</div>
+			<br>
+			<div class="input-group input-group-sm">
+				<input type="text" class="form-control" placeholder="Full Surname">
+				<span class="input-group-btn">
+					<button class="btn btn-default">Enter</button>
+				</span>
+			</div>
+			<br>
+			<br>
+
+			<div class="row">
+				<div class="input-group">
+					<div class="input-group-btn">
+						<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">User ID
+							<span class="caret"></span>
+						</button>
+						<ul class="dropdown-menu">
+							<li><a href="#">Facebook</a></li>
+							<li><a href="#">Twitter</a></li>
+							<li><a href="#">Google+</a></li>
+						</ul>
+						
+					</div>
+					<input type="text" class="form-control" aria-label="...">
+				</div>
+			</div>
+			<br>
+			<br>
+			
+			<div id="images">
+				<img id="sunset-img" alt="sunset" src="img/backwall.jpg" class="img-responsive img-rounded pull-left bottom-images">
+				<img id="lab-img" alt="lab" src="img/backwall_labirynthcode.png" class="img-responsive img-rounded pull-left bottom-images">
+				<img id="matrix-img" alt="other" src="img/backwall_matrix.jpg" class="img-responsive img-rounded pull-left bottom-images">
+			</div>
+			<br>
+			<br>
+
+			<ul class="list-inline">
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+			</ul>
+
+			<ul class="nav nav-pills nav-stacked">
+				<li class="active"><a href="#">Home</a></li>
+				<li class="active"><a href="#">About</a></li>
+
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact
+						<span class="caret"></span>
+					</a>
+
+					<ul class="dropdown-menu">
+						<li><a href="#">Opiton1</a></li>
+						<li><a href="#">Opiton2</a></li>
+						<li><a href="#">Opiton3</a></li>
+					</ul>
+				</li>
+			</ul>
+			<br>
+			<br>
+			<br>
+
+			<div id="tabbed">
+				<ul class="nav nav-pills">
+					<li class="active">
+						<a href="#superman">Superman</a>
+					</li>
+					<li>
+						<a href="#batman">Batman</a>
+					</li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Flash
+							<span class="caret"></span>
+						</a>
+						<ul class="dropdown-menu">
+							<li class="disabled">
+								<a href="#">The Spiderman</a>
+							</li>
+							<li>
+								<a href="#kidflash" data-toggle="tab">Kid Flash</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+
+				<div class="tab-content">
+					<div id="superman" class="tab-pane fade in active">
+						Superman Spuerman Superman
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam perspiciatis, molestias est illum sit rerum! Eveniet ipsum distinctio, iure architecto alias veniam fuga aut sit hic dolor exercitationem dignissimos necessitatibus.
+					</div>
+					<div id="batman" class="tab-pane fade">
+						Batman Batman Batman Batman Batman
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam perspiciatis, molestias est illum sit rerum! Eveniet ipsum distinctio, iure architecto alias veniam fuga aut sit hic dolor exercitationem dignissimos necessitatibus.
+					</div>
+					<div id="spiderman" class="tab-pane fade">
+						Spiderman Spiderman Spiderman Spiderman
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam perspiciatis, molestias est illum sit rerum! Eveniet ipsum distinctio, iure architecto alias veniam fuga aut sit hic dolor exercitationem dignissimos necessitatibus.
+					</div>
+					<div id="kidflash" class="tab-pane fade">
+						Kid Flash Kid Flash Kid Flash Kid Flash
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam perspiciatis, molestias est illum sit rerum! Eveniet ipsum distinctio, iure architecto alias veniam fuga aut sit hic dolor exercitationem dignissimos necessitatibus.
+					</div>
+				</div>
+			</div>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+		</div>
+
+
+		<script src="https://code.jquery.com/jquery-3.1.1.min.js"
+		integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+		crossorigin="anonymous">
+		</script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	</body>
+</html>

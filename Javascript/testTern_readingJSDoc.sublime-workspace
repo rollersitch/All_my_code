@@ -1,0 +1,731 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is_",
+				"is_true(s) -> bool\tfn "
+			],
+			[
+				"re",
+				"resolve(value)\tfn "
+			],
+			[
+				"a",
+				"a\tstr "
+			],
+			[
+				"pa",
+				"param\t@param"
+			],
+			[
+				"cre",
+				"createTag(tagName) -> Element\tfn "
+			],
+			[
+				"$",
+				"$(selector, context?) -> jQuery.fn\tfn "
+			],
+			[
+				"reje",
+				"reject(reason)\tfn "
+			],
+			[
+				"S",
+				"String(value) -> string\tfn "
+			],
+			[
+				"o",
+				"one\t.one()"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"wi",
+				"width=〔attribute〕"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"modu",
+				"modules〔variable〕"
+			],
+			[
+				"ide",
+				"identify"
+			],
+			[
+				"publ",
+				"publicAPI〔variable〕"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"winIc",
+				"winInceCream〔function〕"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"win",
+				"winInceCream〔function〕"
+			],
+			[
+				"removeG",
+				"removeGarbage〔function〕"
+			],
+			[
+				"clea",
+				"cleanTheRoom〔function〕"
+			],
+			[
+				"sta",
+				"statusText〔variable〕"
+			],
+			[
+				"resolv",
+				"resolve〔argument〕"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"id",
+				"id=〔attribute〕"
+			],
+			[
+				"GAME",
+				"GAME_LEVELS\t(games.js)"
+			],
+			[
+				"DOM",
+				"DOMDisplay〔class〕"
+			],
+			[
+				"simpl",
+				"simpleLevelPlan\t(game.js)"
+			],
+			[
+				"loc",
+				"localEnv"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"top",
+				"topEnv"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pars",
+				"parseApply"
+			],
+			[
+				"no",
+				"noop\t$.noop()"
+			],
+			[
+				"n",
+				"not\t.not()"
+			],
+			[
+				"res",
+				"rest"
+			],
+			[
+				"ex",
+				"expr"
+			],
+			[
+				"program",
+				"program"
+			],
+			[
+				"with",
+				"withBoxUnlocked〔function〕"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"rand",
+				"randomElement"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"dire",
+				"directions"
+			],
+			[
+				"direc",
+				"directions"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"line",
+				"line"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"My",
+				"MyObject"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"pri",
+				"privateCounter"
+			],
+			[
+				"chan",
+				"changeBy"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"new",
+				"newSaga〔function〕"
+			],
+			[
+				"newS",
+				"newSaga〔function〕"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"cl",
+				"class=〔attribute〕"
+			],
+			[
+				"bef",
+				"beforeEach"
+			],
+			[
+				"ini",
+				"initialComplete\t(AddressBook.js)"
+			],
+			[
+				"Add",
+				"AddressBook"
+			],
+			[
+				"add",
+				"addressBook"
+			],
+			[
+				"index",
+				"index\t.index()"
+			],
+			[
+				"delete",
+				"deleteContact\t(AddressBookSpec.js)"
+			],
+			[
+				"addC",
+				"addContact"
+			],
+			[
+				"sh",
+				"should"
+			],
+			[
+				"cont",
+				"contacts"
+			],
+			[
+				"con",
+				"contacts"
+			],
+			[
+				"contac",
+				"contact\t(AddressBookSpec.js)"
+			],
+			[
+				"this",
+				"thisContact〔variable〕"
+			],
+			[
+				"parse",
+				"parseFloat〔function〕"
+			],
+			[
+				"type",
+				"typeof〔keyword〕"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"com",
+				"compose〔function〕"
+			],
+			[
+				"arts",
+				"arts"
+			],
+			[
+				"app",
+				"appengine"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"img",
+				"img_url"
+			],
+			[
+				"fr",
+				"front.html"
+			],
+			[
+				"GM",
+				"GMAPS_URL〔variable〕"
+			],
+			[
+				"p",
+				"points"
+			],
+			[
+				"ur",
+				"urllib2〔module〕"
+			],
+			[
+				"art",
+				"art_key〔variable〕"
+			],
+			[
+				"get_",
+				"get_coords〔function〕"
+			],
+			[
+				"url",
+				"url〔variable〕"
+			],
+			[
+				"mini",
+				"minidom〔module〕"
+			],
+			[
+				"urllib",
+				"urllib2"
+			],
+			[
+				"h",
+				"hr\tTag"
+			],
+			[
+				"render_",
+				"render_front"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"jinja",
+				"jinja_env"
+			],
+			[
+				"Re",
+				"RequestHandler"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"node",
+				"node_modules"
+			],
+			[
+				"jQ",
+				"jQuery.ajax\tjQuery.ajax"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"wiki",
+				"wikiElem"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"Sort Lines"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Sort Lines (Case Sensitive)"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"pwd",
+			"exit()",
+			"s",
+			"s = 'hello'",
+			"pwd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/daniele/ProgrammingTests/Javascript/jsdocTest.js",
+		"/home/daniele/ProgrammingTests/Javascript/testTernJS_sublimePlugin/.tern-project",
+		"/home/daniele/.config/sublime-text-3/Packages/DocBlockr/README.md",
+		"/home/daniele/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/Tern.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/daniele/ProgrammingTests/Javascript/testTernJS_sublimePlugin/first.js",
+		"/home/daniele/ProgrammingTests/Javascript/testTernJS_sublimePlugin/testing_TernJS.sublime-project",
+		"/home/daniele/ProgrammingTests/Javascript/test.js",
+		"/home/daniele/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/daniele/Lavoro/EventiCG/prod/testSVG.html",
+		"/home/daniele/ProgrammingTests/Javascript/equality.js",
+		"/home/daniele/ProgrammingTests/Javascript/module.js",
+		"/home/daniele/.config/sublime-text-3/Packages/AngularJS/AngularJS-completions.sublime-settings",
+		"/home/daniele/ProgrammingTests/Javascript/Angular_test.html",
+		"/home/daniele/.config/sublime-text-3/Packages/User/AngularJS-completions.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/home/daniele/ProgrammingTests/Javascript/PromisesJS/sleep.js",
+		"/home/daniele/ProgrammingTests/Javascript/PromisesJS/tryPromise.js",
+		"/home/daniele/ProgrammingTests/Javascript/PromisesJS/app.html",
+		"/home/daniele/ProgrammingTests/Javascript/PromisesJS/app.js",
+		"/var/www/html/CelesteGame/game.js",
+		"/var/www/html/CelesteGame/game.html",
+		"/home/daniele/ProgrammingTests/Javascript/EloquentJS/myLanguage_Egg.js",
+		"/home/daniele/ProgrammingTests/Javascript/EloquentJS/lockedBox.js",
+		"/home/daniele/ProgrammingTests/Javascript/OO_Js/oop.js",
+		"/home/daniele/ProgrammingTests/Javascript/OO_Js/sagas.js",
+		"/home/daniele/ProgrammingTests/Html_CSS/index.html",
+		"/home/daniele/ProgrammingTests/Html_CSS/index.css",
+		"/home/daniele/ProgrammingTests/Javascript/JavascriptTesting_Jasmine/ud549/src/Contact.js",
+		"/home/daniele/ProgrammingTests/Javascript/JavascriptTesting_Jasmine/ud549/src/AddressBook.js",
+		"/home/daniele/ProgrammingTests/Javascript/JavascriptTesting_Jasmine/ud549/spec/AddressBookSpec.js",
+		"/home/daniele/ProgrammingTests/Javascript/JavascriptTesting_Jasmine/ud549/SpecRunner.html",
+		"/home/daniele/ProgrammingTests/Javascript/JavascriptTesting_Jasmine/ud549/spec/PlayerSpec.js",
+		"/home/daniele/.config/sublime-text-3/Packages/User/Node.sublime-build",
+		"/home/daniele/ProgrammingTests/GoogleAppEngine/ascii_chan/css/main.css",
+		"/home/daniele/ProgrammingTests/GoogleAppEngine/ascii_chan/templates/front.html",
+		"/home/daniele/ProgrammingTests/GoogleAppEngine/ascii_chan/main.py",
+		"/home/daniele/yakuake_session.py",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 4 - Part 2 - Lesson 5/gulpfile.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 4 - Part 2 - Lesson 5/dist/index.html",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 4/js/extra.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 4/tests/spec/extraSpec.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 4/gulpfile.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/js/main.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/index.html",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/gulpfile.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/sass/main.scss",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/css/main.css",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/js/extra.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/css/extra.css",
+		"/home/daniele/ProgrammingTests/Javascript/AJAX/minicourse-ajax-project/js/libs/jquery.min.js",
+		"/home/daniele/ProgrammingTests/Javascript/AJAX/minicourse-ajax-project/js/script.js",
+		"/home/daniele/ProgrammingTests/Javascript/AJAX/minicourse-ajax-project/index.html",
+		"/home/daniele/ProgrammingTests/Javascript/AJAX/minicourse-ajax-project/css/style.css",
+		"/home/daniele/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"vector",
+			"Vector",
+			"heigth",
+			"';\n",
+			"db",
+			"container",
+			"greeting",
+			"reeting",
+			"services",
+			"articles"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"position",
+			"Position",
+			"ndb",
+			"article",
+			"services"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "testTern_readingJSDoc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/ProgrammingTests/Javascript/AJAX/minicourse-ajax-project/css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

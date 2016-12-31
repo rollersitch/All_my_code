@@ -1,0 +1,51 @@
+.wrapper {
+
+	background-color: black;
+	width: 800px;
+	height: 600px;
+	margin: 0px auto;
+}
+
+.header {
+	
+	text-align: center;
+	background-color: red;
+	width: 800px;
+	height: 100px;
+}
+
+.nav{
+	
+	text-align: center;
+	background-color: blue;
+	width: 800px;
+	height: 50px;
+}
+
+.content {
+	float: left;
+	text-align: center;
+	background-color: green;
+	width: 600px;
+	height: 400px;
+}
+
+.sidebar {
+	float: right;
+	text-align: center;
+	background-color: orange;
+	width: 200px;
+	height: 400px;
+}
+
+.footer {
+	clear: both;
+	text-align: center;
+	width: 800px;
+	height: 50px;
+	background-color: purple;
+}
+
+#links {
+	text-align: left;
+}

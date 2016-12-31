@@ -1,0 +1,22 @@
+{
+  "name": "webtooling_course",
+  "version": "1.0.0",
+  "description": "web Tooling Course Udacity",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniele Pipitone",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jasmine-phantom": "^3.0.0",
+    "gulp-uglify": "^2.0.0",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}

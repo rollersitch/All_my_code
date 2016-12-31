@@ -1,0 +1,880 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"new",
+				"newUSer"
+			],
+			[
+				"conso",
+				"console.log(\"target\t(filesystem.js)"
+			],
+			[
+				"sh",
+				"shift"
+			],
+			[
+				"ge",
+				"getID() -> number\tfn "
+			],
+			[
+				"get",
+				"getID"
+			],
+			[
+				"cono",
+				"console.log"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"cosoe",
+				"console.log"
+			],
+			[
+				"getCh",
+				"getChildren() -> []\tfn "
+			],
+			[
+				"Fol",
+				"Folder(name)\tfn "
+			],
+			[
+				"remove",
+				"removeChild"
+			],
+			[
+				"addC",
+				"addChild"
+			],
+			[
+				"re",
+				"removeChild"
+			],
+			[
+				"newID",
+				"newID() -> number\tfn "
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Veh",
+				"VehicleConstructorModule"
+			],
+			[
+				"func",
+				"function\t(namespaceApproach.js)"
+			],
+			[
+				"car",
+				"car\t(factory.js)"
+			],
+			[
+				"po",
+				"pointY\tnum "
+			],
+			[
+				"ins",
+				"instance"
+			],
+			[
+				"Sin",
+				"Singleton(options)\tfn "
+			],
+			[
+				"Singleton",
+				"SingletonTester"
+			],
+			[
+				"single",
+				"singleB"
+			],
+			[
+				"sin",
+				"singleA"
+			],
+			[
+				"Obj",
+				"Object.create\t(objectFactory.js)"
+			],
+			[
+				"Ma",
+				"MacBook()\tfn "
+			],
+			[
+				"House",
+				"House(walls) -> self\tfn "
+			],
+			[
+				"whe",
+				"wheelSize"
+			],
+			[
+				"Truck",
+				"TruckFactory()\tfn "
+			],
+			[
+				"Tru",
+				"TruckFactory"
+			],
+			[
+				"cons",
+				"console\t{} "
+			],
+			[
+				"vehicle",
+				"vehicleType"
+			],
+			[
+				"f",
+				"f\tAnonymous Function"
+			],
+			[
+				"he",
+				"helloFunction()\tfn "
+			],
+			[
+				"pers",
+				"person2"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"el",
+				"el\t? "
+			],
+			[
+				"on",
+				"on(events, handler) -> jQuery.fn\tfn "
+			],
+			[
+				"regE",
+				"regExForPhone"
+			],
+			[
+				"reg",
+				"regExForName"
+			],
+			[
+				"my",
+				"myUpperAbstract"
+			],
+			[
+				"Vehi",
+				"VehicleAbstract()\tfn "
+			],
+			[
+				"call",
+				"callPrivateFunWithFilter(string)\tfn "
+			],
+			[
+				"priva",
+				"privateFun"
+			],
+			[
+				"priv",
+				"privateFun()\tfn "
+			],
+			[
+				"Fer",
+				"Ferrari(engine, weight, yell?) -> self\tfn "
+			],
+			[
+				"pri",
+				"privateVar\tstr "
+			],
+			[
+				"testGe",
+				"testGettersFerrari"
+			],
+			[
+				"tes",
+				"testGettersFerrari(obj)\tfn "
+			],
+			[
+				"Ferr",
+				"Ferrari(engine, weight) -> self\tfn "
+			],
+			[
+				"num",
+				"numWheels"
+			],
+			[
+				"self",
+				"self"
+			],
+			[
+				"mY",
+				"myCar"
+			],
+			[
+				"set",
+				"setWheels(numWheels)\tfn "
+			],
+			[
+				"chan",
+				"changeProps"
+			],
+			[
+				"testG",
+				"testGettersVehicle(obj)\tfn "
+			],
+			[
+				"myV",
+				"myVehicle"
+			],
+			[
+				"testOb",
+				"testVehicle(obj)\tfn "
+			],
+			[
+				"Ve",
+				"Vehicle"
+			],
+			[
+				"en",
+				"engine"
+			],
+			[
+				"test",
+				"testObject(obj)\tfn "
+			],
+			[
+				"myVe",
+				"myVehicle"
+			],
+			[
+				"getW",
+				"getWheels"
+			],
+			[
+				"cou",
+				"countDown(initial, time) -> {}\tfn "
+			],
+			[
+				"count",
+				"counter"
+			],
+			[
+				"barker",
+				"barker(state) -> {}\tfn "
+			],
+			[
+				"strin",
+				"stringFunctor(value, fn) -> string\tfn "
+			],
+			[
+				"stri",
+				"stringFunctor(value, fn)\tfn "
+			],
+			[
+				"map",
+				"map\t.map()"
+			],
+			[
+				"is_",
+				"is_true(s) -> bool\tfn "
+			],
+			[
+				"a",
+				"a\tstr "
+			],
+			[
+				"pa",
+				"param\t@param"
+			],
+			[
+				"cre",
+				"createTag(tagName) -> Element\tfn "
+			],
+			[
+				"$",
+				"$(selector, context?) -> jQuery.fn\tfn "
+			],
+			[
+				"reje",
+				"reject(reason)\tfn "
+			],
+			[
+				"S",
+				"String(value) -> string\tfn "
+			],
+			[
+				"o",
+				"one\t.one()"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"wi",
+				"width=〔attribute〕"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"modu",
+				"modules〔variable〕"
+			],
+			[
+				"ide",
+				"identify"
+			],
+			[
+				"publ",
+				"publicAPI〔variable〕"
+			],
+			[
+				"winIc",
+				"winInceCream〔function〕"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"win",
+				"winInceCream〔function〕"
+			],
+			[
+				"removeG",
+				"removeGarbage〔function〕"
+			],
+			[
+				"clea",
+				"cleanTheRoom〔function〕"
+			],
+			[
+				"sta",
+				"statusText〔variable〕"
+			],
+			[
+				"resolv",
+				"resolve〔argument〕"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"id",
+				"id=〔attribute〕"
+			],
+			[
+				"GAME",
+				"GAME_LEVELS\t(games.js)"
+			],
+			[
+				"DOM",
+				"DOMDisplay〔class〕"
+			],
+			[
+				"simpl",
+				"simpleLevelPlan\t(game.js)"
+			],
+			[
+				"loc",
+				"localEnv"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"top",
+				"topEnv"
+			],
+			[
+				"pars",
+				"parseApply"
+			],
+			[
+				"no",
+				"noop\t$.noop()"
+			],
+			[
+				"n",
+				"not\t.not()"
+			],
+			[
+				"res",
+				"rest"
+			],
+			[
+				"ex",
+				"expr"
+			],
+			[
+				"program",
+				"program"
+			],
+			[
+				"with",
+				"withBoxUnlocked〔function〕"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"rand",
+				"randomElement"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"dire",
+				"directions"
+			],
+			[
+				"direc",
+				"directions"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"line",
+				"line"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"My",
+				"MyObject"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"newS",
+				"newSaga〔function〕"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title>Personal Page</title>\n</head>\n<body>\n\t<div class=\"container\">\n\t\t<div class=\"nav-b\">\n\t\t</div>\n\t</div>\n\n</body>\n</html>\n",
+			"file": "/home/daniele/ProgrammingTests/Dev_Github/Web/webpage1.html",
+			"file_size": 114,
+			"file_write_time": 131268378353647933,
+			"settings":
+			{
+				"buffer_size": 156,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sbc",
+		"selected_items":
+		[
+			[
+				"sbc",
+				"SBC: Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"TernJS",
+				"tern_for_sublime: Enable Project"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"Sort Lines"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Sort Lines (Case Sensitive)"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"pwd",
+			"exit()",
+			"s",
+			"s = 'hello'",
+			"pwd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/daniele/.config/sublime-text-3/Packages/User/sbc-setting.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/Better Completion/sbc-setting.sublime-settings",
+		"/home/daniele/ProgrammingTests/Dev_Github/Web/try.js",
+		"/home/daniele/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/Tern.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/babel-node.sublime-build",
+		"/home/daniele/.config/sublime-text-3/Packages/tern_for_sublime/JavaScript.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/JavaScriptNext.sublime-settings",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/filesystem_test.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/ProgrammingWebApplications_Elliot/src/destructure.js",
+		"/home/daniele/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/daniele/ProgrammingTests/Dev_Github/ProgrammingWebApplications_Elliot/cart.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/FileSystemJS/filesystem.js",
+		"/home/daniele/Lavoro/Enforcing/PythonLearning/thinkPy_python3_testcode/Rectangle.py",
+		"/home/daniele/ProgrammingTests/Dev_Github/FileSystemJS/OLOO.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/filesystem.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/module.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/singleton2.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/singleton.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/objectFactory.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/decorator.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/abstractFactory.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/factory.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/prototype.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/prototypeAndNew.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/namespaceApproach.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/pattern.js",
+		"/home/daniele/ProgrammingTests/Dev_Github/hello-world/protoInheritance.js",
+		"/home/daniele/ProgrammingTests/Javascript/testTern_JSDoc/protoInheritance.js",
+		"/home/daniele/ProgrammingTests/Javascript/testTern_JSDoc/functors.js",
+		"/home/daniele/ProgrammingTests/Javascript/testTern_JSDoc/recursion.js",
+		"/home/daniele/ProgrammingTests/Javascript/testTern_JSDoc/test.js",
+		"/home/daniele/ProgrammingTests/Javascript/testTern_JSDoc/.tern-project",
+		"/home/daniele/.config/sublime-text-3/Packages/sublime-github/GitHub.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/GitHub.sublime-settings",
+		"/home/daniele/ProgrammingTests/Javascript/jsdocTest.js",
+		"/home/daniele/ProgrammingTests/Javascript/testTernJS_sublimePlugin/.tern-project",
+		"/home/daniele/.config/sublime-text-3/Packages/DocBlockr/README.md",
+		"/home/daniele/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/daniele/ProgrammingTests/Javascript/testTernJS_sublimePlugin/first.js",
+		"/home/daniele/ProgrammingTests/Javascript/testTernJS_sublimePlugin/testing_TernJS.sublime-project",
+		"/home/daniele/ProgrammingTests/Javascript/test.js",
+		"/home/daniele/Lavoro/EventiCG/prod/testSVG.html",
+		"/home/daniele/ProgrammingTests/Javascript/equality.js",
+		"/home/daniele/ProgrammingTests/Javascript/module.js",
+		"/home/daniele/.config/sublime-text-3/Packages/AngularJS/AngularJS-completions.sublime-settings",
+		"/home/daniele/ProgrammingTests/Javascript/Angular_test.html",
+		"/home/daniele/.config/sublime-text-3/Packages/User/AngularJS-completions.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/home/daniele/ProgrammingTests/Javascript/PromisesJS/sleep.js",
+		"/home/daniele/ProgrammingTests/Javascript/PromisesJS/tryPromise.js",
+		"/home/daniele/ProgrammingTests/Javascript/PromisesJS/app.html",
+		"/home/daniele/ProgrammingTests/Javascript/PromisesJS/app.js",
+		"/var/www/html/CelesteGame/game.js",
+		"/var/www/html/CelesteGame/game.html",
+		"/home/daniele/ProgrammingTests/Javascript/EloquentJS/myLanguage_Egg.js",
+		"/home/daniele/ProgrammingTests/Javascript/EloquentJS/lockedBox.js",
+		"/home/daniele/ProgrammingTests/Javascript/OO_Js/oop.js",
+		"/home/daniele/ProgrammingTests/Javascript/OO_Js/sagas.js",
+		"/home/daniele/ProgrammingTests/Html_CSS/index.html",
+		"/home/daniele/ProgrammingTests/Html_CSS/index.css",
+		"/home/daniele/ProgrammingTests/Javascript/JavascriptTesting_Jasmine/ud549/src/Contact.js",
+		"/home/daniele/ProgrammingTests/Javascript/JavascriptTesting_Jasmine/ud549/src/AddressBook.js",
+		"/home/daniele/ProgrammingTests/Javascript/JavascriptTesting_Jasmine/ud549/spec/AddressBookSpec.js",
+		"/home/daniele/ProgrammingTests/Javascript/JavascriptTesting_Jasmine/ud549/SpecRunner.html",
+		"/home/daniele/ProgrammingTests/Javascript/JavascriptTesting_Jasmine/ud549/spec/PlayerSpec.js",
+		"/home/daniele/.config/sublime-text-3/Packages/User/Node.sublime-build",
+		"/home/daniele/ProgrammingTests/GoogleAppEngine/ascii_chan/css/main.css",
+		"/home/daniele/ProgrammingTests/GoogleAppEngine/ascii_chan/templates/front.html",
+		"/home/daniele/ProgrammingTests/GoogleAppEngine/ascii_chan/main.py",
+		"/home/daniele/yakuake_session.py",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 4 - Part 2 - Lesson 5/gulpfile.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 4 - Part 2 - Lesson 5/dist/index.html",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 4/js/extra.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 4/tests/spec/extraSpec.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 4/gulpfile.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/js/main.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/index.html",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/gulpfile.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/sass/main.scss",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/css/main.css",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/js/extra.js",
+		"/home/daniele/ProgrammingTests/Javascript/WebTooling_UdacityCourse/ud892/Lesson 2/css/extra.css",
+		"/home/daniele/ProgrammingTests/Javascript/AJAX/minicourse-ajax-project/js/libs/jquery.min.js",
+		"/home/daniele/ProgrammingTests/Javascript/AJAX/minicourse-ajax-project/js/script.js",
+		"/home/daniele/ProgrammingTests/Javascript/AJAX/minicourse-ajax-project/index.html",
+		"/home/daniele/ProgrammingTests/Javascript/AJAX/minicourse-ajax-project/css/style.css",
+		"/home/daniele/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/daniele/.config/sublime-text-3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Steer",
+			"testObject",
+			"vector",
+			"Vector",
+			"heigth",
+			"';\n",
+			"db",
+			"container",
+			"greeting",
+			"reeting",
+			"services",
+			"articles"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Seat",
+			"position",
+			"Position",
+			"ndb",
+			"article",
+			"services"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/daniele/ProgrammingTests/Dev_Github/Web/webpage1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 237.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "testTern_JSDoc.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/ProgrammingTests/Javascript/AJAX/minicourse-ajax-project/css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
