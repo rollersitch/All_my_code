@@ -1,7 +1,7 @@
 #!/bin/bash
 function repeat()
 {
-	echo ciao
+	echo ciao ciao
 	repeat
 }
 repeat
