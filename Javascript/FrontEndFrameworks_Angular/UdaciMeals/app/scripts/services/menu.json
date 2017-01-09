@@ -1,0 +1,44 @@
+[
+  {
+   id: 'chicken-salad',
+   name: 'Chicken Salad',
+   img: 'chicken-salad.jpg',
+   calories: 430,
+   rating: 4.1
+ },
+ {
+   id: 'strawberry-pudding',
+   name: 'Strawberry Pudding',
+   img: 'strawberry-pudding.jpg',
+   calories: 280,
+   rating: 5
+ },
+ {
+   id: 'cheesecake',
+   name: 'Cheesecake',
+   img: 'cheesecake.jpg',
+   calories: 450,
+   rating: 3.9
+ },
+ {
+   id: 'pepperoni-pizza',
+   name: 'Pepperoni Pizza',
+   img: 'pepperoni-pizza.jpg',
+   calories: 610,
+   rating: 4.5
+ },
+ {
+   id: 'rosbeef',
+   name: 'Rosbeef',
+   img: 'rosbeef.jpg',
+   calories: 140,
+   rating: 3.4
+ },
+ {
+   id: 'fish-amd-chips',
+   name: 'Fish and Chips',
+   img: 'fish-and-chips.jpg',
+   calories: 231,
+   rating: 3.3
+ }
+]

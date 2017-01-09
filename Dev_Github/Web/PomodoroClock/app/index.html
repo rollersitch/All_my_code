@@ -1,0 +1,80 @@
+<html><head>
+    <meta name="description" content="Simple Pomodoro App">
+    <title>Pomodoro Clock</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://pingendo.github.io/pingendo-bootstrap/themes/default/bootstrap.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="styles/main.css">
+  </head><body ng-app="pomodoroClockApp" ng-controller="MainCtrl as main">
+    <div class="section" id="controls-section">
+      <div class="container">
+        <div class="row" id="controls-row">
+          <div class="col-md-6" id="control-break">
+            <div id="controls-left">
+              <button class="btn-sm" 
+                      ng-click="main.decrementBreak()"
+                      ng-show="main.break > 0">
+                <span class="fa fa-minus" ></span>
+              </button>
+              <span id="break-length" ng-model="main.break">{{main.break}}</span>
+              <button class="btn-sm" 
+                      ng-click="main.incrementBreak()"
+                      ng-show="main.break < 1000">
+                <span class="fa fa-plus" ></span>
+              </button>
+            </div>
+          </div>
+          <div class="col-md-6" id="control-session">
+            <div id="controls-right">
+              <button class="btn-sm" 
+                      ng-click="main.decrementSession()"
+                      ng-show="main.session > 0">
+                <span class="fa fa-minus" ></span></button>
+              <span id="session-length">{{main.session}}</span>
+              <button class="btn-sm"
+                      ng-click="main.incrementSession()"
+                      ng-show="main.session < 100">
+                      <span class="fa fa-plus" ></span></button>
+            </div>
+          </div>
+        </div>
+        <div class="row" id="start-row">
+          <div class="col-md-12" id="start-session">
+              <button class="btn-lg" ng-click="main.startSession()"><span class="fa fa-bell" ></span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section" id="line-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <hr>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section" id="timer-section">
+      <div class="container" style="height: 300px; width:300px;">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="round-button">
+              <div class="round-button-circle">
+                <a href="#" class="round-button active btn btn-lg btn-primary" ng-click="main.toggleTimer()">{{main.currentSession}}</a>
+              </div>
+            </div>
+
+            <!--<a class="active btn btn-lg btn-primary" id="session-btn">Click me</a>-->
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+<script src="scripts/app.js"></script> 
+<script src="scripts/controllers/main.js"></script> 
+</body></html>
