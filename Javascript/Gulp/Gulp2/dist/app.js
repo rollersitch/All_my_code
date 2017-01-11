@@ -1,0 +1,1 @@
+function dopp(l,o){alert("Hello")}dopp("ole","alla");
