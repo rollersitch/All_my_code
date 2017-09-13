@@ -1,0 +1,4 @@
+/home/daniele/Development/CsDev/bin/Debug/netcoreapp1.1/CsDev.deps.json
+/home/daniele/Development/CsDev/bin/Debug/netcoreapp1.1/CsDev.runtimeconfig.json
+/home/daniele/Development/CsDev/bin/Debug/netcoreapp1.1/CsDev.runtimeconfig.dev.json
+/home/daniele/Development/CsDev/obj/Debug/netcoreapp1.1/CsDev.AssemblyInfo.cs
